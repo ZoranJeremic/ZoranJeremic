@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Zoran, and I really love tech and coding. I love that feeling when you finally finish a code.
+
 I am currently working on a special UI element that is very unique and could possibly change the way we interact with software.
 
 Currently learning Kivy and Kotlin and deciding in what programming language to create my apps.
