@@ -24,8 +24,6 @@ Pronouns: he/him/his
 
 Something about me: 
 
-I hate Apple, and I am against them. I am very deeply involved into Google and Microsoft ecosystems. 
-
 I am also a big fan of Frutiger Aero (2004 - 2012) era in design. Besides that, I love Material You 3.
 
 Feel free to ask whatever you want here!
