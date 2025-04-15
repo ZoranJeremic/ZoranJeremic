@@ -20,6 +20,8 @@ I am currently working on a special UI element that is very unique and could pos
 
 Currently learning Kivy and Kotlin and deciding in what programming language to create my apps.
 
+I also love FOSS.
+
 Pronouns: he/him/his
 
 Something about me: 
