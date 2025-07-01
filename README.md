@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 My name is Zoran, and I really love tech and coding. I love that feeling when you finally finish a code.
 
 ![ZoranJeremic's Stats](https://github-readme-stats.vercel.app/api?username=ZoranJeremic&theme=default&show_icons=true&hide_border=true&count_private=true)
-![ZoranJeremic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZoranJeremic&theme=default&hide_border=true)
 ![ZoranJeremic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoranJeremic&theme=default&show_icons=true&hide_border=true&layout=compact)
+![ZoranJeremic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZoranJeremic&theme=default&hide_border=true)
 
 I am currently working on a special UI element that is very unique and could possibly change the way we interact with software.
 
