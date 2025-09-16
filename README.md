@@ -22,13 +22,13 @@ I love contributing to FOSS community, so if you need help with your FOSS app, j
 
 Currently working on f.Sentence, app with text editing, note taking, PDF annotation and whole lot more! That is my main project right now.
 
-I love Frutiger Aero era in design, as well as skeumorphism. It really gives special taste to software! Unfortunately, minimalism is now standard 😕
+I love Frutiger Aero era in design, as well as skeumorphism. It really gives special taste to software! 
 
 Something more about me:
-Pronouns: he/him/his
-Age: 14
-Loves: animals, software, plants
-Hates: Apple, Microsoft, Google
+- Pronouns: he/him/his
+- Age: 14
+- Loves: animals, software, plants
+- Hates: Apple, Microsoft, Google, automod
 
 Here are some stats about my account below: 
 
